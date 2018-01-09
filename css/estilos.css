@@ -1,0 +1,40 @@
+@font-face {
+	font-family: Dancing Script;
+	src: url('../fonts/DancingScript-Regular.otf');
+}
+
+*
+{
+	margin:0;
+	font-family: Dancing Script;
+}
+
+html{
+	background: #02010a;
+}
+
+header{
+	background-color: #5b7989;
+
+}
+
+header h1 {
+    width: 50%;
+}
+
+header nav{
+    width: 50%;
+
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    overflow: hidden;
+}
+
+li {
+	float: left;
+}
